@@ -1,0 +1,14 @@
+.card{
+    background-image:url(/src/image/bcimage1.jpg);
+    background-size: cover;
+}
+.centered-word {
+    text-align: center; /* Adjust as needed for your design */
+    /* Additional styling for the centered word if necessary */
+  }
+.mb-3{
+    font-size: medium;
+}
+.container{
+    background-color: rgba(82, 22, 32, 0.301);
+}
